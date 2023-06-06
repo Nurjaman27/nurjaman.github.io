@@ -796,6 +796,10 @@ span {
         font-size: 50%;
     }
 
+    .home {
+        margin-top: 2rem;
+    }
+
     .home-img {
         width: 90vw;
         display: flex;
