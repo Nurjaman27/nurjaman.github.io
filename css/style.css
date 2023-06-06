@@ -797,7 +797,7 @@ span {
     }
 
     .home {
-        margin-top: 2rem;
+        margin-top: 9rem;
     }
 
     .home-img {
@@ -816,6 +816,10 @@ span {
 }
 
 @media (max-width: 365px) {
+    .home {
+        margin-top: 2rem;
+    }
+
     .home-img {
         width: 90vw;
         display: flex;
