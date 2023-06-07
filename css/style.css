@@ -783,6 +783,10 @@ span {
     .project-list {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .contact form .input-box .input-field {
+        width: 100%;
+    }
 }
 
 @media (max-width: 617px) {
@@ -790,9 +794,7 @@ span {
         grid-template-columns: 1fr;
     }
 
-    .contact form .input-box .input-field {
-        width: 100%;
-    }
+    
 }
 
 @media (max-width: 450px) {
